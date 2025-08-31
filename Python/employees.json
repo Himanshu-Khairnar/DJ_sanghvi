@@ -1,0 +1,72 @@
+[
+    {
+        "id": "001",
+        "name": "HIMANSHU AVINASH KHAIRNAR",
+        "age": "19",
+        "department": "AI & ML",
+        "salary": "1000000"
+    },
+    {
+        "id": "002",
+        "name": "JOE DOE",
+        "age": "33",
+        "department": "SALES",
+        "salary": "200000"
+    },
+    {
+        "id": "003",
+        "name": "PRIYA SHARMA",
+        "age": "28",
+        "department": "HR",
+        "salary": "350000"
+    },
+    {
+        "id": "004",
+        "name": "RAHUL VERMA",
+        "age": "25",
+        "department": "MARKETING",
+        "salary": "400000"
+    },
+    {
+        "id": "005",
+        "name": "ANITA SINGH",
+        "age": "30",
+        "department": "FINANCE",
+        "salary": "550000"
+    },
+    {
+        "id": "006",
+        "name": "DAVID JOHNSON",
+        "age": "45",
+        "department": "OPERATIONS",
+        "salary": "750000"
+    },
+    {
+        "id": "007",
+        "name": "SNEHA PATIL",
+        "age": "22",
+        "department": "AI & ML",
+        "salary": "600000"
+    },
+    {
+        "id": "008",
+        "name": "ARJUN MEHTA",
+        "age": "35",
+        "department": "SALES",
+        "salary": "450000"
+    },
+    {
+        "id": "009",
+        "name": "KAVYA NAIR",
+        "age": "27",
+        "department": "CUSTOMER SUPPORT",
+        "salary": "300000"
+    },
+    {
+        "id": "010",
+        "name": "VIKRAM DESAI",
+        "age": "40",
+        "department": "IT",
+        "salary": "800000"
+    }
+]
