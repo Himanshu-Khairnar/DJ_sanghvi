@@ -1,0 +1,65 @@
+[
+    {
+        "date": "2025-09-24",
+        "description": "Testing",
+        "category": "test",
+        "amount": 1000.0,
+        "who_paid": "Himanshu"
+    },
+    {
+        "date": "2025-09-20",
+        "description": "Groceries - Big Bazaar",
+        "category": "Groceries",
+        "amount": 3200.5,
+        "who_paid": "Himanshu"
+    },
+    {
+        "date": "2025-09-21",
+        "description": "Electricity Bill",
+        "category": "Utilities",
+        "amount": 2100.0,
+        "who_paid": "Priya"
+    },
+    {
+        "date": "2025-09-22",
+        "description": "Movie Tickets",
+        "category": "Entertainment",
+        "amount": 750.0,
+        "who_paid": "Rahul"
+    },
+    {
+        "date": "2025-09-23",
+        "description": "Cab to Airport",
+        "category": "Transport",
+        "amount": 1200.0,
+        "who_paid": "Himanshu"
+    },
+    {
+        "date": "2025-09-15",
+        "description": "Fuel - Petrol Pump",
+        "category": "Transport",
+        "amount": 1800.0,
+        "who_paid": "Rahul"
+    },
+    {
+        "date": "2025-09-10",
+        "description": "Monthly Internet Bill",
+        "category": "Utilities",
+        "amount": 999.0,
+        "who_paid": "Himanshu"
+    },
+    {
+        "date": "2025-09-05",
+        "description": "Vegetables Market",
+        "category": "Groceries",
+        "amount": 850.0,
+        "who_paid": "Priya"
+    },
+    {
+        "date": "2025-09-02",
+        "description": "Online Shopping (Amazon)",
+        "category": "Shopping",
+        "amount": 4500.0,
+        "who_paid": "Rahul"
+    }
+]
